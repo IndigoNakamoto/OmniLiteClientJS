@@ -15,7 +15,7 @@ var configuration = JSON.parse(
 
 console.log("Init client");
 var client = new OmniClient({host:'localhost',
-  port:18332,
+  port:9332,
   user: configuration.rpcuser,
   pass: configuration.rpcpassword});
 
