@@ -1,3 +1,7 @@
+# OmniMynt 
+Use: lib/OmniLiteClient.js 
+
+
 # OmniClientJS (Currently unmaintained)
 
 Omni Layer Node.js RPC client
